@@ -1,6 +1,6 @@
 # Concrete-compressive-strength
 
-# Concrete Compressive Strength — ML Prediction Project  
+# Concrete Compressive Strength Prediction
 
 ## 📄 Overview  
 This project presents an end-to-end machine learning pipeline designed to predict **concrete compressive strength (MPa)** using mixture proportions (cement, water, aggregates, admixtures) and curing age.  
