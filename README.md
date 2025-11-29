@@ -54,7 +54,7 @@ Visual comparison of all regression models.
 Importance scores derived from tree-based models.  
 ![Feature Importance](images/feat_imp.png)
 
-## 🎯 Reproducibility & Setup  
+## 🎯 Setup & Requirements
 - **Notebook:** [ConcreteCompressiveStrengthPrediction.ipynb](./ConcreteCompressiveStrengthPrediction.ipynb)  
 - **Tools/Libraries:** Python 3.x, pandas, numpy, scikit-learn, matplotlib, seaborn  
 - **Random seed:** 42  
