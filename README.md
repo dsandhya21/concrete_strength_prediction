@@ -9,11 +9,6 @@ The workflow includes **exploratory data analysis (EDA), feature scaling, model 
 The aim is to identify the most accurate prediction model and extract meaningful engineering insights.  
 As part of the model comparison, **Random Forest achieved the best performance**, and the analysis highlighted key factors influencing concrete strength, including **cement content, water-to-cement behavior, and curing age**.
 
-## 📁 Repository Contents  
-- `ConcreteCompressiveStrengthPrediction.ipynb` — Jupyter notebook containing EDA, preprocessing, model training, evaluation, and visualizations.  
-- `images/` — folder containing all figures used in this README (`corr.png`, `feat_imp.png`, `comparision.png`).  
-- `README.md` — project documentation.  
-
 ## 🧰 Data Description  
 **Dataset:** UCI Concrete Compressive Strength Dataset (1030 samples, 8 input variables + 1 target)  
 **Inputs:** Cement, Blast Furnace Slag, Fly Ash, Water, Superplasticizer, Coarse Aggregate, Fine Aggregate (kg/m³), and Age (days)  
