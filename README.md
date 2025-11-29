@@ -6,7 +6,7 @@ Concrete is one of the most important materials in Civil Engineering. Knowing th
 
 Please read this [blog](https://towardsdatascience.com/concrete-compressive-strength-prediction-using-machine-learning-4a531b3c43f3) for more explanation. Also leave some claps to show appreciation!
 
-Please refer [*ConcreteCompressiveStrengthPrediction.ipynb*](https://github.com/pranaymodukuru/Concrete-compressive-strength/blob/master/ConcreteCompressiveStrengthPrediction.ipynb) for code.
+Please refer [*ConcreteCompressiveStrengthPrediction.ipynb*](https://github.com/<sandhyadappu>/<your-repo>/blob/main/ConcreteCompressiveStrengthPrediction.ipynb) for code.
 
 ## 1. Problem Statement
 Predicting Compressive Strength of Concrete given its age and quantitative measurements of ingredients.
